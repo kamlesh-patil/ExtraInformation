@@ -1,0 +1,58 @@
+Souce -> Code with Harry Link - https://www.youtube.com/watch?v=t90FMQr9WWc&t=2109s
+VSCode is written in Electronjs
+VSCode online by microsoft released for online editing
+click Interface overview when you are on welcome screen
+first gear is Explorer to create file and directory
+second gear is search to search file
+fourth gear is for debugger
+fifth gear is extension also you can install and uninstall from it to increase capability of VSCode 
+setting gear on down left side 
+	click on settings
+	two types of setting
+		User Settings for overall chnages
+		Workspace Settings for specific file or project changes
+	rightup for user settings.json
+	color theme in gear (dark+ is default)
+	mousewheelzoom check there use ctrl+mousewheel and ctrl++ or ctrl+- and for touchpad press ctrl and expand and shrink in touchpad
+	always change setting on workplace not on user level except few times
+split editor upright to compare files work together on multiple screens and click on close symbol to comeout from that screen
+right click and click on run code to run in terminal
+search for coderunner extension in Extension in search gear and coderunner gives run button 
+setting gear coderunner setting check clear previous output
+	check runinterminal
+	check save file before run
+	ctrl+` for jump into terminal
+goto help click welcome screen
+	goto interactive playground
+setting gear
+	keyboard shortcuts
+	click on json to see key binding
+	to assign key double click on key in keyboard shortcut
+multiculsor
+	press alt key click by mouse wherever you want cursor and change parallaly
+	press alt+shift and drag mouse 
+if movieList name is there then just use ml it will show movieList suggestion
+code folding click on + and - in left side 
+in welcome screen under help printable keyboard sheet
+ctrl+shlash(/) to comment a line block
+insert line below use ctrl+d or remove it from keybinding
+because copy line down is there for ctrl+d for entire line copy
+by default ctrl+d will select every similar work whenever you press D while holding ctrl and you make changes parallaly
+if you press second 'for' in suggestion then it will show you extra code and press tab from variable to variable jump after name editing
+usersnippet
+	click on setting gear
+		user snippet 
+			python or any language
+			modify it or watch at 41:00 in code with harry in tutorial of vscode and press tab for variables jump
+right click close other and so on
+priview mode single click to open double click no more tabs because of preview mode
+view 
+	editor layout
+		split up and grid
+		drag and drop in grid usefull in copetition
+goto folder press shift + rightclick goto open powershell window write code -h it will give command lien utility 
+two see diffrence between file
+	make two txt files 			
+		write code -d  1.txt 2.txt compare two files
+code . to open VSCode new window
+search about python programming vscode its official document
